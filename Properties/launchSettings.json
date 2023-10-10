@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "vertical_scaling_azure_webapp_plan": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7126",
+      "launchBrowser": false
+    }
+  }
+}
